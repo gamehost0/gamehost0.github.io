@@ -1,5 +1,3 @@
-let score = 0;
-
 // Hae elementit
 const popdogImg = document.getElementById("popdog-img");
 const scoreDisplay = document.getElementById("score");
