@@ -1,6 +1,6 @@
 let score = 0;
 
-// Hae elementit
+// Hae elementit ha
 const popdogImg = document.getElementById("popdog-img");
 const scoreDisplay = document.getElementById("score");
 
