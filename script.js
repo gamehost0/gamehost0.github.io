@@ -7,6 +7,6 @@ const scoreDisplay = document.getElementById("score");
 // Lisää klikkaustapahtuma kuvaan
 popdogImg.addEventListener("click", () => {
     score++; // Lisää pisteitä klikkauksesta
-    scoreDisplay.textContent = "Pisteet: " + score; // Päivitä pistemäärä
+    scoreDisplay.textContent = "Pisteet: " + score; // Päivitä pistemäärä heti
 });
 });
